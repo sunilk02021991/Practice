@@ -10,14 +10,9 @@ public class Testcase
 	
 	String[] str1 = str.split(" ");
 	
-	
 	System.out.print(str1[1]+ " "+ str1[0]);
 	
 	
-	
 	}
-	
-	
-	
 
 }
